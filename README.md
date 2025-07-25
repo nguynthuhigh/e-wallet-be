@@ -1,5 +1,4 @@
 <p align="center"> <a href="https://pointer.io.vn/" target="blank"><img src="https://i.imgur.com/5cYzRrm.png" width="120" alt="Pointer Logo" /></a> </p> <h2 align="center">Pointer Wallet Backend</h2> <h3 align="center"><a target="blank" href="https://pointer.io.vn/">🌐 Website</a> ·
-<a target="blank" href="https://pointer.io.vn/">📈 Payment Service</a> ·
 <a target="blank" href="https://www.npmjs.com/package/pointer-wallet">📦 Node Package Manage</a> ·
 <a target="blank" href="https://nguynthuhigh.github.io/pointer-payment-service/"> 📃Docs</a>
 </h3>
